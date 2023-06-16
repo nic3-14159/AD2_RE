@@ -1,0 +1,42 @@
+        2222222222222222222222222222222222222222222222222222222222111111111111 111111111111111111111111 1 1 1 11111111 1 111111 1 1 1 1 1 1 1111
+        eeddddccccbbbbaaaa9999888877776666555544443333222211110000ffffeeeedddd ccccbbbbaaaa999988887777 6 6 6 65555444 4 333322 2 2 1 1 1 1 0000ffff e ee e ddddccccbbbbaaaa999988887777666655554444333322221111
+        40c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840 c840c840c840c840c840c840 c 8 4 0c840c84 0 c840c8 4 0 c 8 4 0 c840c840 c 84 0 c840c840c840c840c840c840c840c840c840c840c840c840c840c840
+        ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+default:6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d0:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 d b 6 db6db6db 6 db 7 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d1:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 d b 6 db6db6db 6 db e db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d2:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 d b e db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d3:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 7 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d4:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d f 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d5:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 f b 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d6:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 d f 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d7:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 f b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d8:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b e d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d9:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 d b 7 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d10:    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 f 6 db6db6db 6 db6db6 d b 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d11:    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 7 b 6 db6db6db 6 db6db6 d b 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d12:    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 b 7 db6db6db 6 db6db6 d b 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d13:    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b e db6db6db 6 db6db6 d b 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d14:    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b 6 db6db6db 7 db6db6 d b 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+d15:    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b 6 db6db6db e db6db6 d b 6 d b 6 db6db6db 6 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+t1:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff db6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 d b 6 db6db6db e db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+t2:     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dff fb6db6db6db6db7dbedb6df7 5 b 6 db6db6db 6 db6db6 d b 6 d b 6 db6db6db 7 db 6 db6db6ffffffffffffffffffffffffffffffffffffffffffffffffff
+                                                                               |                        | | |          |        | | | | | |          |    |-- bit 0xe0 (224) is d0 -> IO_D1 input pad
+                                                                               |                        | | |          |        | | | | | |          |    '-- bit 0xe3 (227) is d1 -> IO_D2 input pad
+                                                                               |                        | | |          |        | | | | | |          |-- bit 0xef (239) is t1 -> IO_E2 input pad
+                                                                               |                        | | |          |        | | | | | |          '-- bit 0xec (236) is t2 -> IO_E1 input pad
+                                                                               |                        | | |          |        | | | | | |-- bit 0x113 (275) is d2 -> IO_F2 input pad
+                                                                               |                        | | |          |        | | | | | '-- bit 0x110 (272) is d9 -> IO_F1 input pad
+                                                                               |                        | | |          |        | | | | '-- bit 0x116 (278) is d6 -> IO_H1 input pad
+                                                                               |                        | | |          |        | | | '-- bit 0x119 (281) is d7 -> IO_H2 input pad
+                                                                               |                        | | |          |        | | |-- bit 0x11f (287) is d8 -> IO_G2 input pad
+                                                                               |                        | | |          |        | | '-- bit 0x11c (284) is d3 -> IO_G1 input pad
+                                                                               |                        | | |          |        | '-- bit 0x122 (290) is d4 -> IO_J1 input pad
+                                                                               |                        | | |          |        '-- bit 0x125 (293) is d5 -> IO_J2 input pad
+                                                                               |                        | | |          |-- bit 0x140 (320) is d14 -> IO_K1 input pad
+                                                                               |                        | | |          '-- bit 0x143 (323) is d15 -> IO_K2 input pad
+                                                                               |                        | | |-- bit 0x164 (356) is d12 -> IO_L1 input pad
+                                                                               |                        | | '-- bit 0x167 (359) is d13 -> IO_L2 input pad
+                                                                               |                        | '-- bit 0x16a (362) is d10 -> IO_M1 input pad
+                                                                               |                        '- bit 0x16d (365) is d11 -> IO_M2 input pad
+                                                                               ' bit 0x1cd (461) Not sure what this is, but it seems to be floating -> IO_P7 input pad
