@@ -1,0 +1,116 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4bb0d20b-5ad5-4a46-a870-d7a39ab5441e)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 167.64 38.1) (size 13.97 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8cc0465e-0013-43ff-9039-e7100f695c6f)
+    (property "Sheetname" "Scope ADC" (at 167.64 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "scope_adc.kicad_sch" (at 167.64 42.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ad2_pcb"
+        (path "/4bb0d20b-5ad5-4a46-a870-d7a39ab5441e" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 132.08 74.93) (size 25.4 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid af5d71d5-60cb-4d1b-9004-dd6136451a88)
+    (property "Sheetname" "Spartan 6 Power" (at 132.08 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "spartan6_power.kicad_sch" (at 132.08 94.5646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ad2_pcb"
+        (path "/4bb0d20b-5ad5-4a46-a870-d7a39ab5441e" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 44.45 52.07) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d57d06cf-dcd7-4bd6-ab3c-2b2c68ca7287)
+    (property "Sheetname" "IO Header" (at 44.45 51.3584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "io_header.kicad_sch" (at 44.45 56.4646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ad2_pcb"
+        (path "/4bb0d20b-5ad5-4a46-a870-d7a39ab5441e" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 81.28 69.85) (size 20.32 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid dcb122a9-7e19-4529-9329-cc7589921a9c)
+    (property "Sheetname" "Spartan 6 Programming Interface" (at 81.28 69.1384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "spartan6_ft232h.kicad_sch" (at 81.28 88.2146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ad2_pcb"
+        (path "/4bb0d20b-5ad5-4a46-a870-d7a39ab5441e" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 115.57 35.56) (size 20.32 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e9480b7f-be8a-484c-9e5f-e45a3716f3fb)
+    (property "Sheetname" "Spartan 6 IO 2 of 2" (at 115.57 34.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "spartan6_io_2.kicad_sch" (at 115.57 55.1946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ad2_pcb"
+        (path "/4bb0d20b-5ad5-4a46-a870-d7a39ab5441e" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 67.31 29.21) (size 21.59 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f22f35bb-cb58-4f88-8251-0c799d15af32)
+    (property "Sheetname" "Spartan 6 IO 1 of 2" (at 67.31 28.4984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "spartan6_io_1.kicad_sch" (at 67.31 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ad2_pcb"
+        (path "/4bb0d20b-5ad5-4a46-a870-d7a39ab5441e" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
