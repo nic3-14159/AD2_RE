@@ -1,0 +1,11 @@
+        2 22222222 2 2222222222222222222222222222222222222222222222221111111111111111111111111111111111111111111111111111111111111111
+        e eddddccc c bbbbaaaa9999888877776666555544443333222211110000ffffeeeeddddccccbbbbaaaa9999888877776666555544443333222211110000ffffeeeeddddccccbbbbaaaa999988887777666655554444333322221111
+        4 0c840c84 0 c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840
+--------- -------- - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+default:6 db6db6db 6 db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R82     6 db6db6db e db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R83     6 db6db6db 7 db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R84     e db6db6db 6 db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+        |          |- 0x2c0 (704): R83 -> IO_F12
+        |          '- 0x2c3 (707): R82 -> IO_F11
+        '- 0x2e7 (743): R84 -> IO_C12
