@@ -1,0 +1,9 @@
+        222222222222222222222222222222222222222222222222222222222211111111111111111111111111111111 1 1111111111111111 1 11111111111111
+        eeddddccccbbbbaaaa9999888877776666555544443333222211110000ffffeeeeddddccccbbbbaaaa99998888 7 7776666555544443 3 33222211110000ffffeeeeddddccccbbbbaaaa999988887777666655554444333322221111
+        40c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840 c 840c840c840c840c 8 40c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840
+-------------------------------------------------------------------------------------------------- - ---------------- - -----------------------------------------------------------------------------------------
+default:6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb 6 df75b6db6db6db6d b 6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R75     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb 7 df75b6db6db6db6d b 6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R76     6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb 6 df75b6db6db6db6d f 6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+                                                                                                   |                  '- 0x13a (314): R76 -> IO_J3
+                                                                                                   '- 0x17c (380): R75 -> IO_N3
