@@ -1,0 +1,13 @@
+        2222222222222222222222222222222222222222222222222222222222111111111111111111111111111111111111111111111111 1 111111111111111
+        eeddddccccbbbbaaaa9999888877776666555544443333222211110000ffffeeeeddddccccbbbbaaaa999988887777666655554444 3 333222211110000fff f eeeeddddc c ccbbbbaaaa999988887777666655554444333322221111
+        40c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840 c 840c840c840c840c84 0 c840c840c 8 40c840c840c840c840c840c840c840c840c840c840c840c840
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+default:6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb6df75b6db6db6db6 d b6db6db6db6db6db6d b 6db6db6db 6 ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+SC2_LO  6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7dbedb6df75b6db6db6db6 d b6db6db6db6db6db6d b 6db6db6db 7 ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+SC2_HI  6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb6df75b6db6db6db6 d b6db6db6db6db6db6d b 6db6db6db e ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+SC1_LO  6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7dbedb6df75b6db6db6db6 d b6db6db6db6db6db6d f 6db6db6db 6 ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+SC1_HI  6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7dbedb6df75b6db6db6db6 f b6db6db6db6db6db6d b 6db6db6db 6 ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+                                                                                                                   |                    |           |- 0xc8 (200) SC2_LO -> IO_B1
+                                                                                                                   |                    |           '- 0xcb (203) SC2_HI -> IO_C1
+                                                                                                                   |                    '- 0xf2 (242) SC1_LO -> IO_F3
+                                                                                                                   '- 0x13d (317) SC1_HI -> IO_J4
