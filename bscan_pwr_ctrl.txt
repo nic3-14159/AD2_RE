@@ -1,0 +1,11 @@
+        222222222222222222222222222 2 2 22222222222222222222222222222111111111111111111111111111111 1 111111111111111111111111111111111                                                                                
+        eeddddccccbbbbaaaa999988887 7 7 76666555544443333222211110000ffffeeeeddddccccbbbbaaaa999988 8 877776666555544443333222211110000ffffeeeeddddccccbbbbaaaa999988887777666655554444333322221111
+        40c840c840c840c840c840c840c 8 4 0c840c840c840c840c840c840c840c840c840c840c840c840c840c840c8 4 0c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840
+        ------- - - - --------- - -   -  - - - - - - -- - ----------------------------------------  -  ----------------------------------------------- - - - - - ------ - ------ - - - - - - --------------- - - - --------------------------------------------
+default:6db6db6db6db6db6db6db6db6db e f b6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbe d b6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R175    6db6db6db6db6db6db6db6db6db 6 f b6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7dbe d b6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R176    6db6db6db6db6db6db6db6db6db e d b6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7dbe d b6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R278    6db6db6db6db6db6db6db6db6db e f b6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbe f b6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+                                    | |                                                             '- 0x185 (389) R278 EN_VBUS -> IO_M4
+                                    | '- 0x275 (629) R176 SDA_PWR -> IO_K13
+                                    '- 0x27b (635) R175 SCL_PWR -> IO_J11 
