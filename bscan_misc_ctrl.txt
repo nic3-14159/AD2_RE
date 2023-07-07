@@ -1,0 +1,16 @@
+                  22222222222222222222222222222222222222222222222222222222221111111111111111111111111111 1 111111 1 1111111111111111111111111111
+                  eeddddccccbbbbaaaa9999888877776666555544443333222211110000ffffeeeeddddccccbbbbaaaa9999 8 888777 7 6666555544443333222211110000ffffeeeeddddccccbbbbaaaa999988887777666655554444333322221111
+                  40c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840 c 840c84 0 c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840
+--------------    -------------------------------------------------------------------------------------- - ------ - -------------------------------------------------------------------------------------------------
+default:          6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7d b edb6df 7 5b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R178 EN_AVCC:     6db6db6dbedb6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7d b fdb7df 7 5b6db6db6db6df6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R192 EN_5V0_USR:  6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7d b edb6df 7 5b6db6db6db6db6db6db6db6db6db6db6fb6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R189 EN_-5V0_USR: 6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7d b edb6df 7 5b6db6db6db6db6db6db6db6db6db6db6df6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+EN_PWR_USR:       6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7d f edb6df f 5b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+R254 SET_ILIM_USR:6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7d b edb6df 7 5b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6fb6db
+CS:               6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7d b edb6df 7 5b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+DI:               6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7d b edbedf 7 5b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+DO:               6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7d b edbedf 7 5b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+CLK:              6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7d b edb6ff 7 5b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+                                                                                                         |        '- 0x173 (371) -> IO_P2
+                                                                                                         '- 0x18e (398) -> IO_N5
