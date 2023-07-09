@@ -22,22 +22,22 @@ R134    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb
 R135    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6f f e d b 6 db6db6db6db6db6 d b 6 d b 6 db6db6db6db6db6 d b 6 ff6db
 R136    6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dfffb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6f b 6 d b 6 db6db6db6db6db6 d b 6 d b 6 db6db6db6db6db6 d b 6 ff6db
 RESET   6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477dfedb7ffffb6db6db6db6dffdb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6f f 6 d b 6 db6db6db6db6db6 d b 6 f b 6 db6db6db6db6db6 d b 6 ff6db
-                                                                                                                                                  | | | | |                 | | | | | |                 | | |- 0x14 (20): R126 -> A10
-                                                                                                                                                  | | | | |                 | | | | | |                 | | '- 0x17 (23): R127 -> B10
-                                                                                                                                                  | | | | |                 | | | | | |                 | '- 0x1a (26): R125 -> A9
-                                                                                                                                                  | | | | |                 | | | | | |                 '- 0x1d (29): R123 -> B9
-                                                                                                                                                  | | | | |                 | | | | | |- 0x5c (92): R122 -> A8
-                                                                                                                                                  | | | | |                 | | | | | '- 0x5f (95): R112 -> B8
-                                                                                                                                                  | | | | |                 | | | | '- 0x62 (98): R128 -> C8
-                                                                                                                                                  | | | | |                 | | | '- 0x65 (101): Reset -> D8
-                                                                                                                                                  | | | | |                 | | |- 0x68 (104): R113 -> A7
-                                                                                                                                                  | | | | |                 | | '- 0x6b (107): R114 -> B7
-                                                                                                                                                  | | | | |                 | '- 0x6e (110): R115 -> A6
-                                                                                                                                                  | | | | |                 '- 0x71 (113): R116 -> B6
-                                                                                                                                                  | | | | |- 0xb0 (176): R117 -> A5
-                                                                                                                                                  | | | | '- 0xb3 (179): R119 -> B5
-                                                                                                                                                  | | | '- 0xb6 (182): R120 -> A4
-                                                                                                                                                  | | '- 0xb9 (185): R134 -> B4
-                                                                                                                                                  | |- 0xbc (188): R121 -> A3
-                                                                                                                                                  | '- 0xbf (191): R135 -> B3
-                                                                                                                                                  '- 0xc2 (194): R136 -> A2
+                                                                                                                                                  | | | | |                 | | | | | |                 | | |- 0x14 (20): R126 -> IO_A10
+                                                                                                                                                  | | | | |                 | | | | | |                 | | '- 0x17 (23): R127 -> IO_B10
+                                                                                                                                                  | | | | |                 | | | | | |                 | '- 0x1a (26): R125 -> IO_A9
+                                                                                                                                                  | | | | |                 | | | | | |                 '- 0x1d (29): R123 -> IO_B9
+                                                                                                                                                  | | | | |                 | | | | | |- 0x5c (92): R122 -> IO_A8
+                                                                                                                                                  | | | | |                 | | | | | '- 0x5f (95): R112 -> IO_B8
+                                                                                                                                                  | | | | |                 | | | | '- 0x62 (98): R128 -> IO_C8
+                                                                                                                                                  | | | | |                 | | | '- 0x65 (101): Reset -> IO_D8
+                                                                                                                                                  | | | | |                 | | |- 0x68 (104): R113 -> IO_A7
+                                                                                                                                                  | | | | |                 | | '- 0x6b (107): R114 -> IO_B7
+                                                                                                                                                  | | | | |                 | '- 0x6e (110): R115 -> IO_A6
+                                                                                                                                                  | | | | |                 '- 0x71 (113): R116 -> IO_B6
+                                                                                                                                                  | | | | |- 0xb0 (176): R117 -> IO_A5
+                                                                                                                                                  | | | | '- 0xb3 (179): R119 -> IO_B5
+                                                                                                                                                  | | | '- 0xb6 (182): R120 -> IO_A4
+                                                                                                                                                  | | '- 0xb9 (185): R134 -> IO_B4
+                                                                                                                                                  | |- 0xbc (188): R121 -> IO_A3
+                                                                                                                                                  | '- 0xbf (191): R135 -> IO_B3
+                                                                                                                                                  '- 0xc2 (194): R136 -> IO_A2
