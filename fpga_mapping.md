@@ -1,4 +1,4 @@
-## Scope Input Gain Selector
+## Scope Input Gain Switch (ADG612)
 - EN_HG_SC1: IO_J4
 - EN_LG_SC1: IO_F3
 - EN_HG_SC2: IO_C1
@@ -9,13 +9,13 @@
 - SCLK_OFF: IO_F12
 - SDIN_OFF: IO_C12
 
-## Clock Generator
+## Clock Generator (ADF4360-9)
 - /CS_CLKD: IO_M14
 - SCLK_CLKD: IO_L14
 - SDIO_CLKD: IO_L13
 - LD_CLKD: IO_M13
 
-## ADC
+## ADC (AD9648)
 ### Control
 - /CS_SC: IO_B11
 - SCLK_1V8_SC: IO_A12
@@ -61,9 +61,9 @@
 - DIN_AWG_2: IO_A9
 - DIN_AWG_1: IO_A10
 - DIN_AWG_0: IO_B10
-- CLKIO_SC: IO_H12
+- CLKIO_AWG: IO_C8
 
-## DAC Gain Selector (ADG787)
+## DAC Gain Switch (ADG787)
 Not actually sure which one is which, as this is a BGA package that I cannot probe
 - SET_FS_AWG1: IO_C11
 - SET_FS_AWG2: IO_D11
@@ -71,6 +71,14 @@ Not actually sure which one is which, as this is a BGA package that I cannot pro
 ## AWG DC Offset (AD5645)
 - SCL_AWG_OFF: IO_N3
 - SDA_AWG_OFF: IO_J3
+
+## Audio Amplifier (AD8592):
+- EN_AUDIO: IO_F4
+
+## Calibration Memory (93LC66B)
+- DI/DO: IO_P4
+- CLK: IO_P3
+- CS: IO_N2
 
 ## Digital I/O
 - DIO_0: IO_D1
@@ -92,6 +100,33 @@ Not actually sure which one is which, as this is a BGA package that I cannot pro
 - TRIG_1: IO_E2
 - TRIG_2: IO_E1
 
-## USB Power Control/Temperature Measurement I2C Bus
+## USB Power Control (ADM1177)
+Connects the USB VBUS to VCC5V0
+- EN_VBUS: IO_M4
+
+### I2C (Also shared with AD7415 Temperature Sensor):
 - SDL_PWR: IO_K13
 - SDA_PWR: IO_J11
+
+## Analog Supplies Control (ADP197):
+Supplies AVCC5V0 from VCC5V0
+- EN_AVCC: IO_L4
+
+## User Supplies Control (ADM1270)
+Supplies VCC5V0_USR from VCC5V0
+- EN_PWR_USR: IO_P2
+- SET_ILIM_USR: IO_A11
+- PWRGD_USR: IO_N5
+
+## User Voltage Supplies (ADP1612)
+Supplied from VCC5V0_USR
+- EN_5V0_USR: IO_D4
+- EN_-5V0_USR: IO_D3
+
+## 1.8V Digital Supply
+Supplied from VCC5V0
+- EN_DVCC1V8: IO_J12
+
+## Miscellaneous Signals
+- LED: IO_H11
+- FPGA Clock: IO_P7
