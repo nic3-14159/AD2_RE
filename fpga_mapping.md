@@ -130,3 +130,25 @@ Supplied from VCC5V0
 ## Miscellaneous Signals
 - LED: IO_H11
 - FPGA Clock: IO_P7
+
+## Unused IO Pins (so far)
+- IO_B2 (HSWAPEN)
+- IO_L8
+- IO_M8
+- IO_N4
+- IO_N6
+- IO_N7
+- IO_N8
+- IO_N9
+- IO_N10
+- IO_N11
+- IO_N12
+- IO_N13
+- IO_P5
+- IO_P6
+- IO_P8
+- IO_P9
+- IO_P10
+- IO_P11
+- IO_P12
+- IO_P13
