@@ -130,6 +130,7 @@ Supplied from VCC5V0
 ## Miscellaneous Signals
 - LED: IO_H11
 - FPGA Clock: IO_P7
+- ADG621 IN1/2: IO_N4
 
 ## FT232H GPIO
 - GPIOL0: IO_L8
@@ -146,7 +147,6 @@ Supplied from VCC5V0
 
 ## Unused IO Pins (so far)
 - IO_B2 (HSWAPEN)
-- IO_N4
 - IO_N6
 - IO_N12
 - IO_N13
