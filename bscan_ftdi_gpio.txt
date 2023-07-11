@@ -1,0 +1,27 @@
+                  22222222222222222222222222222222222222222222222 2 2 22 2 2 2 2 2 221111111111 1 1 1111111111111111111111111111111111111111111111111111
+                  eeddddccccbbbbaaaa99998888777766665555444433332 2 2 21 1 1 1 0 0 00ffffeeeedd d d ccccbbbbaaaa9999888877776666555544443333222211110000ffffeeeeddddccccbbbbaaaa999988887777666655554444333322221111
+                  40c840c840c840c840c840c840c840c840c840c840c840c 8 4 0c 8 4 0 c 8 40c840c840c8 4 0 c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840c840
+----------------------------------------------------------------- - - -- - - - - - ------------ - - ---------------------------- -----------------------------------------------------------------------------------------------------------------
+default:          6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 d b 6 d b6db6db6db6d b 6 fb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpiol0:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 d b 7 d b6db6db6db6d b 6 db6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpiol1:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 d f 6 d b6db6db6db6d b 6 db6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpiol2:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 d b 6 f b6db6db6db6d b 6 db6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpiol3:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 d b 6 d b6db6db6db6d b 7 db6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpioh0:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d f 6 db 6 d b 6 d b6db6db6db6d b 6 fb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpioh1:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b e db 6 d b 6 d b6db6db6db6d b 6 fb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpioh2:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 7 d b 6 d b6db6db6db6d b 6 db6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpioh3:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 f b 6 d b6db6db6db6d b 6 db6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpioh4:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 d b e d b6db6db6db6d b 6 fb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpioh5:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 d b 6 d b6db6db6db6d f 6 fb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+gpioh6:           6db6db6db6db6db6db6db6db6dbefb6db6db6db6db3477d b 6 db 6 d b 6 d b6db6db6db6d b e fb6db6db6db6db7dbedb6df75b6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db6db6db6db6db6db6db6db6db6db6db6db6db6db6ff6db
+                                                                  | |    | | | | |              | |- 0x1d0 (464) GPIOL3 -> IO_N7
+                                                                  | |    | | | | |              | '- 0x1d3 (467) GPIOH6 -> IO_P8
+                                                                  | |    | | | | |              '- 0x1d6 (470) GPIOH5 -> IO_N8
+                                                                  | |    | | | | '- 0x209 (521) GPIOL2 -> IO_M8
+                                                                  | |    | | | |- 0x20c (524) GPIOL0 -> IO_L8
+                                                                  | |    | | | '- 0x20f (527) GPIOH4 -> IO_P9
+                                                                  | |    | | '- 0x212 (530) GPIOL1 -> IO_N9
+                                                                  | |    | '- 0x215 (533) GPIOH3 -> IO_P10
+                                                                  | |    '- 0x218 (536) GPIOH2 -> IO_N10
+                                                                  | '- 0x227 (551) GPIOH1 -> IO_P11
+                                                                  '- 0x22a (554) GPIOH0 -> IO_N11
