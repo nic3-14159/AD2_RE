@@ -1,0 +1,7 @@
+Bitbang pin -> AD2 DIO pin -> FPGA pin -> unmapped pin
+D0 -> DIO3, DIO4 -> IO_J1 -> N13
+D1 -> DIO0 -> IO_D1 -> P13
+D2 -> DIO5 -> IO_J2 -> N12
+D3 -> DIO1 -> IO_D2 -> P12
+
+DIO3 seems to be pulled up, so D0 is mapped to DIO4
