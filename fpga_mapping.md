@@ -83,15 +83,15 @@ Not actually sure which one is which, as this is a BGA package that I cannot pro
 ## Digital I/O
 - DIO_0: IO_D1
 - DIO_1: IO_D2
-- DIO_2: IO_F2
-- DIO_3: IO_G1
-- DIO_4: IO_J1
-- DIO_5: IO_J2
-- DIO_6: IO_H1
-- DIO_7: IO_H2
-- DIO_8: IO_G2
-- DIO_9: IO_F1
-- DIO_10: IO_M1 
+- DIO_2: IO_F2 - P_GCLK
+- DIO_3: IO_G1 - N_GCLK
+- DIO_4: IO_J1 - N_GCLK
+- DIO_5: IO_J2 - P_GCLK
+- DIO_6: IO_H1 - N_GCLK
+- DIO_7: IO_H2 - P_GCLK
+- DIO_8: IO_G2 - P_GCLK
+- DIO_9: IO_F1 - N_GCLK
+- DIO_10: IO_M1
 - DIO_11: IO_M2
 - DIO_12: IO_L1
 - DIO_13: IO_L2
