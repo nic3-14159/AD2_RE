@@ -1,0 +1,21 @@
+# NET "DIO<7>" LOC="H2";
+# NET "DIO<6>" LOC="H1";
+# NET "DIO<5>" LOC="J2";
+# NET "DIO<4>" LOC="J1";
+# NET "DIO<3>" LOC="G1";
+# NET "DIO<2>" LOC="F2";
+# NET "DIO<1>" LOC="D2";
+# NET "DIO<0>" LOC="D1";
+
+# NET "unused_pins<7>" LOC="B2";
+# NET "unused_pins<6>" LOC="N6";
+# NET "unused_pins<5>" LOC="N12";
+# NET "unused_pins<4>" LOC="N13";
+# NET "unused_pins<3>" LOC="P5";
+# NET "unused_pins<2>" LOC="P6";
+# NET "unused_pins<1>" LOC="P12";
+# NET "unused_pins<0>" LOC="P13";
+
+# NET "dio8" LOC="G2";
+NET "led" LOC="H11";
+NET "clk" LOC="P7";
